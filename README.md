@@ -1,3 +1,7 @@
+<p align="left" style="display:inline;">
+  <a href="https://localwu.top/?from=ghReadme"><img height="36px" src="Static/LocalWuSign.png" /></a>
+</p>
+
 ## Hello, My name is Local Wu.
 
 ### I'm driven by passion for unique experiences and <br/>
@@ -8,7 +12,7 @@
 
 ### Passion Drives. 热爱使燃。
 
----
+##
 
 <p align="right" style="display:inline;">
 <span align="right" style="color:black; font-size: small;">
@@ -20,7 +24,3 @@
   <a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Pt.md"><span>Português</span></a>
 </span>
 </p>
-<p align="left" style="display:inline;">
-  <a href="https://localwu.top/?from=ghReadme"><img height="16px" src="Static/LocalWuSign.png" /></a>
-</p>
-
