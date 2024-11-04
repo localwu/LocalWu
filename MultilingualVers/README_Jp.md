@@ -1,12 +1,12 @@
-## Hello, My name is Local Wu.
+## こんにちは、私は Local Wu です。
 
-### I'm driven by passion for unique experiences and <br/>
+### 私はユニークな経験に駆り立てている <br/>
 
-### the thrill of fulfillment. <br/>
+### と達成感のスリル。 <br/>
 
 <br/>
 
-### Passion Drives. 热爱使燃。
+### 情熱が駆動する。 Passion Drives. 热爱使燃。
 
 ##
 

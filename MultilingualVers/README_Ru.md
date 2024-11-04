@@ -1,12 +1,12 @@
-## Hello, My name is Local Wu.
+## Привет, я Local Wu.
 
-### I'm driven by passion for unique experiences and <br/>
+### Меня движут страсть к уникальным опытам <br/>
 
-### the thrill of fulfillment. <br/>
+### и трепет от свершения. <br/>
 
 <br/>
 
-### Passion Drives. 热爱使燃。
+### Страсть двигает. Passion Drives. 热爱使燃。
 
 ##
 

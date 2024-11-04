@@ -1,12 +1,12 @@
-## Hello, My name is Local Wu.
+## Olá, eu sou Local Wu.
 
-### I'm driven by passion for unique experiences and <br/>
+### Sou movido pela paixão por experiências únicas <br/>
 
-### the thrill of fulfillment. <br/>
+### e pelo entusiasmo da realização. <br/>
 
 <br/>
 
-### Passion Drives. 热爱使燃。
+### Paixão Impulsiona. Passion Drives. 热爱使燃。
 
 ##
 

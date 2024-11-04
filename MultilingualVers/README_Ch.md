@@ -1,8 +1,8 @@
-## Hello, My name is Local Wu.
+## 你好，我是 Local Wu。
 
-### I'm driven by passion for unique experiences and <br/>
+### 为了独一无二的体验和成就感， <br/>
 
-### the thrill of fulfillment. <br/>
+### 热爱使燃。 <br/>
 
 <br/>
 
