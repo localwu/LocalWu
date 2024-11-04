@@ -1,6 +1,6 @@
 ## Hello, My name is Local Wu.
 ### I'm driven by passion for unique experiences and <br/>
-### the thrill of fulfillment.
+### the thrill of fulfillment.<br/>
 
 ### Passion Drives. 热爱使燃。
 
