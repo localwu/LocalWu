@@ -7,7 +7,7 @@
 <br/>
 
 <p align="right">
-<img height="60" src="https://raw.githubusercontent.com/localwu/localwu/refs/heads/main/Static/LocalWuSign.svg" />
+<img height="60" src="Static/LocalWuSign.png" />
 </p>
 
 ### Passion Drives. 热爱使燃。
