@@ -21,6 +21,6 @@
 </span>
 </p>
 <p align="left" style="display:inline;">
-  <a href="https://localwu.top/?from=ghReadmeRu"><img height="16px" src="Static/LocalWuSign.png" /></a>
+  <a href="https://localwu.top/?from=ghReadme"><img height="16px" src="Static/LocalWuSign.png" /></a>
 </p>
 
