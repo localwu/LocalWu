@@ -6,7 +6,7 @@
 
 <br/>
 
-### Passion anime. Passion Drives. 热爱使燃。
+### Passion Anime. 热爱使燃。
 
 ##
 

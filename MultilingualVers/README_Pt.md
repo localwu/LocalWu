@@ -6,7 +6,7 @@
 
 <br/>
 
-### Paixão Impulsiona. Passion Drives. 热爱使燃。
+### Paixão Impulsiona. 热爱使燃。
 
 ##
 
