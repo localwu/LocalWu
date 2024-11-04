@@ -1,4 +1,4 @@
-<div class="overall" style="font-family:Inter,Noto_Sans,PingFang SC,'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-feature-settings:'liga' 1,'calt' 1;">
+<div class="overall" style="color:red; font-family:Inter,Noto_Sans,PingFang SC,'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif; font-feature-settings:'liga' 1,'calt' 1;">
   
 ## Hello, My name is Local Wu.
 I'm driven by passion for unique experiences and <br/>
