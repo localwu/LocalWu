@@ -21,5 +21,5 @@
 </span>
 </p>
 <p align="left" style="display:inline;">
-  <img height="16px" src="Static/LocalWuSign.png" />&nbsp&nbsp
+  <img height="16px" src="../Static/LocalWuSign.png" />&nbsp&nbsp
 </p>
