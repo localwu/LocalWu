@@ -1,4 +1,4 @@
-<div class="overall">
+<div class="overall" style="font-family:Inter,Noto_Sans,PingFang SC,'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-feature-settings:'liga' 1,'calt' 1;">
   
 ## Hello, My name is Local Wu.
 I'm driven by passion for unique experiences and <br/>
@@ -9,15 +9,6 @@ the thrill of fulfillment.
 </div>
 
 <link rel="stylesheet" href="https://dist.localwu.top/CSS/Font/BasicFonts.css?v=202410211300">
-
-<style>
-  
-  .overall{
-    font-family:Inter,Noto_Sans,PingFang SC,'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;
-    font-feature-settings:'liga' 1,'calt' 1;
-  }
-  
-</style>
 
 <!--
 **localwu/LocalWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
