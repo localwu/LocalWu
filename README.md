@@ -10,6 +10,16 @@
 
 ##  
 
+<p align="right" style="color:black; font-size: small;">
+  <a href="https://github.com/localwu/localwu/blob/main/README.md"><span>English</span></a>&nbsp|&nbsp
+  <a href="https://github.com/localwu/localwu/blob/main/README_CN.md"><span>中文</span></a>&nbsp|&nbsp
+  <a href="https://github.com/localwu/localwu/blob/main/README_JP.md"><span>日本語</span></a>&nbsp|&nbsp
+  <a href="https://github.com/localwu/localwu/blob/main/README_FR.md"><span>Français</span></a>&nbsp|&nbsp
+  <a href="https://github.com/localwu/localwu/blob/main/README_RU.md"><span>Русский</span></a>&nbsp|&nbsp
+  <a href="https://github.com/localwu/localwu/blob/main/README_AR.md"><span>عربي</span></a>&nbsp|&nbsp
+  <a href="https://github.com/localwu/localwu/blob/main/README_PT.md"><span>Português</span></a>
+</p>
+
 <!--
 
 ### Current
