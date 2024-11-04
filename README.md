@@ -8,9 +8,10 @@
 
 <p align="right">
 <img height="36" src="Static/LocalWuSign.png" />
-</p>
 
 ### Passion Drives. 热爱使燃。
+  
+</p>
 
 ##
 
