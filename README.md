@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, My name is Local Wu.
+I'm driven by passion for unique experiences and 
+the thrill of fulfillment.
+
+## Passion Drives. 热爱使燃。
 
 <!--
 **localwu/LocalWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
