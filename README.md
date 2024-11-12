@@ -15,12 +15,14 @@
 ##
 
 <p align="right" style="display:inline;">
-<span align="right" style="color:black; font-size: small;">
-  <a href="https://github.com/localwu/localwu/blob/main/README.md"><span><sup><strong>English</sup></strong></span></a>&nbsp;|
-  <a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Ch.md"><span><sup><strong>中文</sup></strong></span></a>&nbsp;|
-  <a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Fr.md"><span><sup><strong>Français</sup></strong></span></a>&nbsp;|
-  <a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Ru.md"><span><sup><strong>Русский</sup></strong></span></a>&nbsp;|
-  <a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Jp.md"><span><sup><strong>日本語</sup></strong></span></a>&nbsp;|
-  <a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Pt.md"><span><sup><strong>Português</sup></strong></span></a>
+<sup>
+  <span align="right" style="color:black; font-size: small;">
+  <sub><strong><a href="https://github.com/localwu/localwu/blob/main/README.md"><span>English</span></a>&nbsp;|</sub></strong>
+  <sub><strong><a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Ch.md"><span>中文</span></a>&nbsp;|</sub></strong>
+  <sub><strong><a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Fr.md"><span>Français</span></a>&nbsp;|</sub></strong>
+  <sub><strong><a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Ru.md"><span>Русский</span></a>&nbsp;|</sub></strong>
+  <sub><strong><a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Jp.md"><span>日本語</span></a>&nbsp;|</sub></strong>
+  <sub><strong><a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Pt.md"><span>Português</span></a></sub></strong>
 </span>
+</sup>
 </p>
