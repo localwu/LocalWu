@@ -16,6 +16,7 @@
 
 <p align="right" style="display:inline;">
 <sup>
+  <sup><strong>📍</sup></strong>
   <span align="right" style="color:black; font-size: small;">
   <sup><strong><a href="https://github.com/localwu/localwu/blob/main/README.md"><span>English</span></a>&nbsp;|</sup></strong>
   <sup><strong><a href="https://github.com/localwu/localwu/blob/main/MultilingualVers/README_Ch.md"><span>中文</span></a>&nbsp;|</sup></strong>
