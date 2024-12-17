@@ -14,6 +14,12 @@ Passion Drives. 热爱使燃。
 
 <p align="right" style="display:inline;">
 <sup>
+  📧 邮件联系 <a href="mailto:Contact@LocalWu.top"><span>Contact@LocalWu.top</span></a>
+</sup>
+</p>
+<br>
+<p align="right" style="display:inline;">
+<sup>
   <a href="https://github.com/localwu/localwu/blob/main/README.md"><span>English</span></a>&nbsp;|
   📍 <a href="https://github.com/localwu/localwu/blob/main/multilingual-version/README_SC.md"><span>简</span></a>&nbsp;|
   <a href="https://github.com/localwu/localwu/blob/main/multilingual-version/README_TC.md"><span>繁</span></a>&nbsp;|
