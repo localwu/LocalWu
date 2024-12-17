@@ -1,0 +1,2 @@
+<!--   <a href="https://github.com/localwu/localwu/blob/main/multilingual-version/README_Fr.md"><span>Français</span></a>&nbsp;| -->
+<!--   <a href="https://github.com/localwu/localwu/blob/main/multilingual-version/README_Ru.md"><span>Русский</span></a>&nbsp;| -->
