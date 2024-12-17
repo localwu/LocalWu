@@ -13,11 +13,10 @@
 ## <img height="14px" src="https://github.com/user-attachments/assets/a16c3b61-6f41-4ba2-98d1-c117c7c07fb5" />
 
 <p align="right" style="display:inline;">
-<sup>
+<sub>
   📧 メール連絡 <a href="mailto:Contact@LocalWu.top"><span>Contact@LocalWu.top</span></a>
-</sup>
+</sub>
 </p>
-<br>
 <p align="right" style="display:inline;">
 <sup>
   <a href="https://github.com/localwu/localwu/blob/main/README.md"><span>English</span></a>&nbsp;|
